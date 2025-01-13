@@ -1,11 +1,11 @@
 # Loading Sample Datasets
 
-This guide explains how to load the provided `.csv` sample datasets into your SQL environment. The datasets include:
+This guide explains loading the provided `.csv` sample datasets into your SQL environment. The datasets include, access the datasets by clicking the link below:
 
-- **customers.csv:** Contains customer information such as name, email, and registration date.  
-- **orders.csv:** Contains order information such as order ID, total amount, and order status.  
-- **products.csv:** Contains product information such as product name, category, and description.  
-- **interaction_log.csv:** Tracks interactions with customers, including meeting dates and follow-ups.
+- [customers.csv](https://www.dropbox.com/scl/fi/beq8a8oqux83bpfmx9gzg/customers.csv?rlkey=8ryl2sn0xudkd50a5iq8jk5j4&st=jsto5h3b&dl=0): Contains customer information such as name, email, and registration date.  
+- [orders.csv](https://www.dropbox.com/scl/fi/pjck93wgon9iuww9udiqx/orders.csv?rlkey=o5sqgw2eyg738nadig5w54heo&st=d7gux1j6&dl=0): Contains order information such as order ID, total amount, and order status.  
+- [products.csv](https://www.dropbox.com/scl/fi/lcc10di4cirszmujalsfc/products.csv?rlkey=67q4alf2ldxps4beeg6szdf4s&st=kr8qei1b&dl=0): Contains product information such as product name, category, and description.  
+- [interaction_log.csv](https://www.dropbox.com/scl/fi/t9zvfk2485q8vozwnbph7/interaction_log.csv?rlkey=ilmwkgdbvmndtxao4pz0eud6y&st=banfjfkd&dl=0): Tracks interactions with customers, including meeting dates and follow-ups.
 
 ---
 
